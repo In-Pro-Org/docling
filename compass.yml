@@ -1,0 +1,16 @@
+name: docling
+id: ari:cloud:compass:eddcc978-84fc-448e-904c-0d4d7a6ccae6:component/dcebf165-b94d-4d6f-a806-e63f9a99f66a/0ad2d22c-84bc-4a0d-a48d-23c0966a9315
+description: Get your documents ready for gen AI
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links:
+  - name: null
+    type: REPOSITORY
+    url: https://github.com/In-Pro-Org/docling
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
